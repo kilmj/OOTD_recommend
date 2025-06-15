@@ -1,9 +1,9 @@
 # 인터넷 기초 과제2 - 오늘의 옷차림 및 음료 추천 인공지능 서비스
 
-## 서비스 개요  
-**서비스 명**: OOTD & 오늘의 음료 추천  
-**서비스 설명**: 사용자로부터 지역과 알레르기 여부를 입력받아 해당 지역 날씨를 알려준 뒤, 날씨에 맞는 옷차림(Outfit Of The Day)과 음료를 추천해준다.  
-**서비스 접속 주소**: [https://kilmj.github.io/OOTD_recommend/](https://kilmj.github.io/OOTD_recommend/)
+## 개요  
+-**서비스 명**: OOTD & 오늘의 음료 추천  
+-**서비스 설명**: 사용자로부터 지역과 알레르기 여부를 입력받아 해당 지역 날씨를 알려준 뒤, 날씨에 맞는 옷차림(Outfit Of The Day)과 음료를 추천해준다.  
+-**서비스 접속 주소**: [https://kilmj.github.io/OOTD_recommend/](https://kilmj.github.io/OOTD_recommend/)
 
 ---
 

@@ -68,3 +68,10 @@ button:hover {
     font-size: 18px;
     color: #666666;
 }
+#result {
+  margin-top: 2rem;
+  padding: 1rem;
+  background: #fff;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+}
